@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dipesh Saw</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>✨About me</h1>
+<h3>Hii I am Dipesh Saw</h3>
 
-- 🔭 I’m currently working on **a project Library Management System**
+- 🔭 I’m currently working in **OneSpect** as an Web Developer Intern
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **a Open Source Community**
 
-- 💬 Ask me about **C & C++**
+<-- - 💬 Ask me about **C & C++** -->
 
 - 📫 How to reach me **dipeshsaw360@gmail.com**
 
