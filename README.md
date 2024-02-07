@@ -1,18 +1,36 @@
-<h1>✨About me</h1>
-<h3>Hii I am Dipesh Saw</h3>
+# 💫 About Me:
+🔭 **I’m currently working on:** <br>
+OneSpect as a Web Development Intern.<br><br>
+👯 **I’m looking to collaborate on:**  <br>
+Fullstack projects<br><br>
+🌱 **I’m currently learning:**  <br>
+Laravel.<br><br>
+💬 **Ask me about:**  <br>
+JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>
+⚡ **Fun fact:**  <br>
+**I Think I am Funny**.
 
-- 🔭 I’m currently working in **OneSpect** as an Web Developer Intern
 
-- 🌱 I’m currently learning **Laravel**
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dipeshsaw009) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) 
 
-- 👯 I’m looking to collaborate on **a Open Source Community**
+<!-- # 💻 Tech Stack: -->
 
-<-- - 💬 Ask me about **C & C++** -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **dipeshsaw360@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **I think I am Funny**
+---
+[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
