@@ -1,44 +1,44 @@
-# 💫 About Me:
-🔭 **I’m currently working in:** <br>
-OneSpect as a Web Development Intern.<br><br>
-👯 **I’m looking to collaborate on:**  <br>
-Fullstack projects<br><br>
-🌱 **I’m currently learning:**  <br>
-Laravel.<br><br>
-<!-- 💬 **Ask me about:**  <br> JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br> -->
-⚡ **Fun fact:**  <br>
-**I Think I am Funny**.
+<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/@dipeshsaw">Dipesh Saw</a></h1>
+<h3 align="center">A Young Web Developer who Loves to Learn 😜</h3>
+
+[![Linkedin: Dipesh Saw](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/dipeshsaw/)][linkedin]
+
+- 🌱 &ensp;I’m currently learning PHP 🐘
+- 👯 &ensp; I’m looking to collaborate with other content creators
+- 🗿 &ensp;I started PHP as a Fresher, and it has been more than 1 years
+- ⚡ &ensp;Fun fact: I love Traveling & Coding
+- 📫 &ensp;How to reach me: [**Email**][email]
 
 
-# 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SawDipesh) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_dipesh009/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipeshsaw) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16459783/dipesh-saw) 
+<br />
+<br />
 
-<!-- # 💻 Tech Stack: -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### Languages
 
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,ajax,restapis,nodejs,mongodb,mysql)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman)](https://skillicons.dev)
+<p align= "left">
+<img src = "https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" , height = 45 , width = 45/>
+<img src = "https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" , height = 45 , width = 45/>
+
+
+  
+</p>
+
+
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhBhardwaj07&show_icons=true&locale=en&layout=compact" alt="saurabhBhardwaj07" /></p>
+
+<!-- <img align="left" alt=“android_studio” width="26px" src=""/>
+<img align="left" alt=“android_atudio” width="26px" src=""/> -->
+
+
+[linkedin]: https://www.linkedin.com/in/dipeshsaw
+[email]: mailto:srvkr0730@gmail.com
+[github]: https://github.com/dipesh-saw
